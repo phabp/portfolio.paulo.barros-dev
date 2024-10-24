@@ -1,2 +1,1 @@
-# portfolio.paulo.barros-dev
-Portfólio Paulo Barros 
+This is my new portfolio. Sharing here, so you can get to know me better! 
