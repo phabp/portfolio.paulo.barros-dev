@@ -134,7 +134,7 @@ h2{
     color: #16423c;
 }
 
-/* estilo especialidades */ 
+
 section.especialidades{
     padding: 40px 4%;
 
@@ -163,7 +163,7 @@ section.especialidades .flex {
     font-size: 70px;
 }
 
-/* início da estilização da parte sobre mim */ 
+
 section.sobre{
     padding: 40px 4%;
     
@@ -210,7 +210,7 @@ section.sobre .flex{
     
 }
 
-/* início estilização do portfólio */ 
+
 
 section.portfolio{
     padding: 80px 4%;
@@ -280,7 +280,7 @@ form .botao-enviar input{
 }
 
 @media screen and (max-width: 1285.60px){
-/* inicio da personalização media query cabeçalho */ 
+
     .flex{
         flex-direction: column;
     }
@@ -298,7 +298,7 @@ form .botao-enviar input{
         width: 80%;
     } 
 
-    /* inicio da personalização seção sobre */ 
+   
 
     section.sobre {
         padding: 80px 8%; 
