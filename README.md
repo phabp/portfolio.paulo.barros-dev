@@ -27,3 +27,5 @@ Olá! Sou Paulo Barros, desenvolvedor em formação focado em criar sistemas que
     E-mail: phbp@cesar.shool
 
 ✨ Em busca de novos desafios na área de desenvolvimento de sistemas!
+
+Link: https://phabp.github.io/portfolio.paulo.barros-dev/
