@@ -10,7 +10,7 @@ Olá! Sou Paulo Barros, desenvolvedor em formação focado em criar sistemas que
 
     Banco de Dados: PostgreSQL
 
-    Interesses: Desenvolvimento back-end, Desenvolvimento front-end, análise de dados. 
+    Interesses: Desenvolvimento back-end, Desenvolvimento front-end, Inteligência artificial. 
 
 📂 Projetos Destacados
 
@@ -19,6 +19,9 @@ Olá! Sou Paulo Barros, desenvolvedor em formação focado em criar sistemas que
 
     MyLib
     Sistema de gerenciamento de bibliotecas/acervo de livros (Java + Json + React.Js).
+
+    SistemaEduc
+    Sistema de gerenciamento de ecossistema escolar (Spring boot + Postgre)
 
 📫 Contato
 
