@@ -1,6 +1,6 @@
 Paulo Barros
 
-👨‍💻 Desenvolvedor de Sistemas Java  | Python | Javascript | React.Js | Flask | SQL
+👨‍💻 Desenvolvedor de Sistemas Java  | Python | Javascript | React.Js | Flask | Spring boot | SQL
 
 Olá! Sou Paulo Barros, desenvolvedor em formação focado em criar sistemas que entreguem valor real na vida das pessoas. Através desse portfólio pretendo exibir os trabalhos que tenho desenvolvido. 
 
